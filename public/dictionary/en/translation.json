@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "User Registration": "User Registration",
+        "Language": "Language",
+        "Send": "Send",
+        "Name": "Name",
+        "LastName": "LastName",
+        "NameRequired": "NameRequired",
+        "LastNameRequired": "LastNameRequired",
+        "Phone": "Phone",
+        "Phone required": "Phone required",
+        "Address": "Address",
+        "Address required": "Address required"
+    }
+}

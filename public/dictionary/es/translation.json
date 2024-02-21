@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "User Registration": "Registro de usuarios",
+        "Language": "Idioma",
+        "Send": "Enviar",
+        "Name": "Nombre",
+        "LastName": "Apellido",
+        "NameRequired": "Nombre requerido",
+        "LastNameRequired": "Apellido requerido",
+        "Phone": "Teléfono",
+        "Phone required": "Teléfono requerido",
+        "Address": "Dirección",
+        "Address required": "Dirección requerida"
+    }
+}
